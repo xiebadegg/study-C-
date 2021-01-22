@@ -1,2 +1,2 @@
-# study-C-
+# study C++
 学习c++
